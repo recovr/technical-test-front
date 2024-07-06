@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "Dashboard",
+    "Analytics",
+    "Settings",
+    "Help",
+    "Logs",
+    "Reports"
+  ],
+  "subcategories": [
+    {"name": "Company", "category": "Analytics"},
+    {"name": "Overview", "category": "Analytics"},
+    {"name": "Project", "category": "Analytics"},
+    {"name": "Billing", "category": "Settings"},
+    {"name": "Users", "category": "Settings"},
+    {"name": "Billing", "category": "Settings"},
+    {"name": "Company", "category": "Settings"},
+    {"name": "Usage", "category": "Logs"},
+    {"name": "Performance", "category": "Logs"},
+    {"name": "Errors", "category": "Logs"},
+    {"name": "Traffic", "category": "Logs"},
+    {"name": "Contact", "category": "Help"},
+    {"name": "Frequently asked questions", "category": "Help"}
+  ]
+}
