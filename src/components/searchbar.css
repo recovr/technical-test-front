@@ -1,0 +1,20 @@
+.input-field {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 300px;
+  height: calc(2.125rem);
+  padding: 0.375rem 0.75rem;
+  border: 1px solid #424242;
+  border-radius: 5px;
+  box-sizing: border-box;
+  background-color: #2E2E2E;
+  cursor: pointer;
+}
+
+.left-part {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
